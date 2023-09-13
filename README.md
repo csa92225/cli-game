@@ -40,4 +40,4 @@ python3 main.py
 6. Repeat steps 3 and 4 until Dr. Brain can't think of the next word!
 
 
-[Screen Recording 2023-09-13 at 12.19.07 AM.zip](https://github.com/csa92225/cli-game/files/12593357/Screen.Recording.2023-09-13.at.12.19.07.AM.zip)
+[word_challenge_game.zip](https://github.com/csa92225/cli-game/files/12593366/word_challenge_game.zip)

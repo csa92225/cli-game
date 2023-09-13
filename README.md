@@ -13,6 +13,7 @@ pip install --upgrade -r requirements.txt
 To see details of the command:
 
 ```sh
+cd src
 python3 main.py --help
 ```
 

@@ -34,12 +34,13 @@ python3 main.py
 - Hard: 3 seconds
 
 4. Enter a word that matches the chosen topic (ex. If "fruit" is selected as the topic, enter "kiwi" accordingly)
-* Important Rules:
+
+** Important Rules:
 - A word must be space sensitive and spelled correctly (ex.New Jersey)
 - Only enter a word that was never used before
 
-6. Wait for Dr. Brain to enter a word.
-7. Repeat steps 3 and 4 until Dr. Brain can't think of the next word!
+5. Wait for Dr. Brain to enter a word.
+6. Repeat steps 3 and 4 until Dr. Brain can't think of the next word!
 
 
 

@@ -33,11 +33,18 @@ python3 main.py
 - Medium: 6 seconds
 - Hard: 3 seconds
 
-4. Enter a word that matches the chosen topic. \*Please note that it is case and space sensitive.
-   ex. if "fruit" is selected as the topic, enter "kiwi" accordingly.
+4. Enter a word that matches the chosen topic (ex. If "fruit" is selected as the topic, enter "kiwi" accordingly)
+* Important Rules:
+- A word must be space sensitive and spelled correctly (ex.New Jersey)
+- Only enter a word that was never used before
 
-5. Wait for Dr. Brain to enter a word.
-6. Repeat steps 3 and 4 until Dr. Brain can't think of the next word!
+6. Wait for Dr. Brain to enter a word.
+7. Repeat steps 3 and 4 until Dr. Brain can't think of the next word!
 
 
-[word_challenge_game.zip](https://github.com/csa92225/cli-game/files/12593366/word_challenge_game.zip)
+
+https://github.com/csa92225/cli-game/assets/46687564/88d139c3-2c52-40e1-8814-2e1bf490c85e
+
+
+
+

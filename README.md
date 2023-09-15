@@ -35,7 +35,7 @@ python3 main.py
 
 4. Enter a word that matches the chosen topic (ex. If "fruit" is selected as the topic, enter "kiwi" accordingly)
 
-# Important Rules:
+*** Important Rules:***
 - A word must be space sensitive and spelled correctly (ex.New Jersey)
 - Only enter a word that was never used before
 
